@@ -17,6 +17,12 @@
 [Começando](#-como-executar-o-projeto) •
 [Roadmap & Investimento](#-roadmap-tecnológico-e-oportunidades-de-investimento)
 
+<br>
+
+<img src="./docs/assets/luva_prototipo_completo.jpg" alt="Protótipo Físico Completo da Luva L-UVA (L-VIS / UnB)" width="520" />
+
+<p><sub><b>Figura 1:</b> Protótipo funcional integrado da <b>L-UVA</b> — Luva têxtil instrumentada com 5 sensores flexíveis em guias de elástico, chassi dorsal em acrílico usinado, placa universal com conectores modulares, unidade <b>ESP32-WROOM-32 DevKit V1</b> e módulo inercial <b>MPU6050 (GY-521)</b>.</sub></p>
+
 </div>
 
 ---
@@ -100,7 +106,11 @@ O repositório está organizado seguindo padrões industriais de projetos de sis
 
 ```text
 L-UVA/
-├── docs/                                         # Relatórios técnicos e especificações de engenharia
+├── docs/                                         # Relatórios técnicos, especificações e fotos do protótipo
+│   ├── assets/                                   # Fotografias em alta resolução do hardware e da luva montada
+│   │   ├── luva_prototipo_completo.jpg           # Vista superior completa da luva L-UVA instrumentada (5 dedos)
+│   │   ├── circuito_perspectiva_acrilico.jpg     # Detalhe em perspectiva (placa universal + base em acrílico)
+│   │   └── circuito_macro_conexoes.jpg           # Vista macro das conexões ESP32, MPU6050 e conectores flex
 │   ├── README.md                                 # Índice da documentação técnica
 │   ├── hardware-e-soldagem.md                    # Mapa elétrico, netlist, soldagem, acrílico/costura e troubleshooting
 │   └── arquitetura-simulacao.md                  # Modelagem matemática (Butterworth, Kalman e Cinemática Unity)

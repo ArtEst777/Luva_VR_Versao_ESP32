@@ -117,3 +117,11 @@ $$\text{fechamento} = \text{limitar}\left(\frac{L - L_{\text{reto}}}{L_{\text{do
 - [x] Quatro/cinco resistores de $10\text{ k}\Omega$ individualmente aterrados ao barramento `GND`.
 - [x] Ausência de continuidade cruzada entre os sinais analógicos dos dedos.
 - [x] Resposta monotônica, repetível e sem saturação permanente em `0` ou `4095` em todos os dedos.
+
+### 5.4. Registro Fotográfico do Protótipo Montado
+
+| Vista Geral da Luva Montada | Camadas Estruturais (Acrílico + PCB) | Inspeção Macro de Roteamento e Conectores |
+| :---: | :---: | :---: |
+| <img src="./assets/luva_prototipo_completo.jpg" width="260" alt="Vista Geral da Luva L-UVA" /> | <img src="./assets/circuito_perspectiva_acrilico.jpg" width="260" alt="Camadas Acrílico e Placa Universal" /> | <img src="./assets/circuito_macro_conexoes.jpg" width="260" alt="Inspeção Macro da Placa" /> |
+| *Integração final dos 5 canais flexíveis (polegar ao mindinho) e orientação USB voltada para o punho.* | *Detalhe da placa base de acrílico usinada sob a placa universal costurada ao dorso têxtil.* | *Alinhamento ortogonal do módulo MPU6050 (`GY-521`) e conectores modulares de 2 vias com alívio de tração.* |
+
