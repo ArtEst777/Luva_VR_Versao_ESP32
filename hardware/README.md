@@ -90,5 +90,5 @@ Para o procedimento passo a passo de soldagem, parâmetros térmicos ($320\ ^\ci
 | Vista Superior Completa (5 Dedos) | Detalhe em Perspectiva (Acrílico + Placa) | Vista Macro (Conexões ESP32 & MPU6050) |
 | :---: | :---: | :---: |
 | <img src="../docs/assets/luva_prototipo_completo.jpg" width="260" alt="Luva L-UVA Completa" /> | <img src="../docs/assets/circuito_perspectiva_acrilico.jpg" width="260" alt="Perspectiva Circuito e Acrílico" /> | <img src="../docs/assets/circuito_macro_conexoes.jpg" width="260" alt="Macro Conexões Placa Universal" /> |
-| *Luva instrumentada com 5 sensores flexíveis em bolsinhos de elástico e conectores de 2 vias.* | *Sobreposição mecânica: luva têxtil $\rightarrow$ base de acrílico usinada $\rightarrow$ placa universal.* | *Detalhe do roteamento em jumpers sólidos laranja, ESP32-WROOM-32 e módulo GY-521 (MPU6050).* |
+| *Luva instrumentada com 5 sensores flexíveis em bolsinhos de elástico e conectores de 2 vias.* | *Sobreposição mecânica: luva têxtil emborrachada base de acrílico + placa universal.* | *Detalhe do roteamento em jumpers sólidos laranja, ESP32-WROOM-32 e módulo GY-521 (MPU6050).* |
 
